@@ -4,11 +4,11 @@ on:
     types: [opened]
 jobs:
   run:
-    name: ValidateRepo 
+    name: ValidateRepo
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Check Issue Label
         id: check-label
@@ -44,7 +44,7 @@ jobs:
 
               Please ensure it is valid JSON and that you have created an actual release.
               `
-            })  
+            })
             await github.rest.issues.addLabels({
               issue_number: context.issue.number,
               owner: context.repo.owner,
