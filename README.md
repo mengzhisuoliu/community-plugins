@@ -32,6 +32,7 @@
 | [Callgraph](https://github.com/psifertex/callgraph)|Josh Watson / Jordan Wiens|Callgraph generator for called or calling funcs|2022-04-20|ui|python3|MIT |
 | [Calltree](https://github.com/elbiazo/calltree)|Eric Biazo|Generates calltree. Alternative view for callgraph|2024-09-04|binaryview, helper, ui|python3|MIT |
 | [Char Arrays](https://github.com/elbee-cyber/analyze_char_arrays)|elbee|Displays char arrays by analyzing their use in functions|2023-01-18|binaryview, helper|python3|MIT |
+| [Class Informer](https://github.com/NightfallCT/Class-Informer-Binary-Ninja)|NightfallCT|Reconstructs C++ class hierarchies from MSVC RTTI|2026-04-30|analysis|python3|MIT |
 | [ClassyPP](https://github.com/CySHell/ClassyPP)|CyShell|Parse and extract class information from MSVC x86 32\64 bit C++ binaries.|2023-06-06|binaryview|python3|MIT |
 | [Clean Tricks](https://github.com/janbbeck/CleanTricks)|Jan Beck|This plugin removes some simple known obfuscation techniques to cut down on the tedium.|2020-06-08|architecture, binaryview, core, helper, ui|python3|MIT |
 | [Code Mode MCP Server](https://github.com/akrutsinger/binja-codemode-mcp)|Austyn Krutsinger|MCP server for LLM-assisted reverse engineering via code execution|2026-01-09|helper|python3|MIT |
@@ -139,6 +140,7 @@
 | [Syscaller](https://github.com/carstein/Syscaller)|Michal Melewski|Decorate encountered syscalls with details like name and arguments|2019-07-15|helper|python3|MIT |
 | [TE Loader](https://github.com/zznop/te-loader)|Brandon Miller|Binary Ninja plugin for loading EFI Terse Executable files|2024-02-28|architecture|python3|MIT |
 | [Tag Team](https://github.com/psifertex/tagteam)|psifertex|Tags functions using emoji for a number of interesting characteristics|2021-03-12|helper|python3|Apache-2.0 |
+| [Theme Manager](https://github.com/lele394/Binary-Ninja-Theme-Manager)|lele394|Download and manage themes from different repos.|2026-04-28|ui|python3|MIT |
 | [Translation Plugin](https://github.com/psifertex/translation-plugin)|psifertex|Translate strings and symbols|2025-09-26|helper|python3|MIT |
 | [Type Oxidizer](https://github.com/austinzwile/TypeOxidizer)|austinzwile / azw|TypeOxidizer converts the C-Style types in your HLIL / decompilation to their Rust equivalents for easier reading / interpretation and shorter decompilation.|2025-02-24|binaryview, helper, ui|python3|MIT |
 | [TypeLib Exporter](https://github.com/SmoothHacker/TypeLib-Exporter)|SmoothHacker|This plugin compiles exported functions and its corresponding types into a type library. Type libraries can also be applied to existing bndbs through this plugin.|2025-12-31|binaryview, helper, ui|python3|MIT |
