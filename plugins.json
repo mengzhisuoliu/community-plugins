@@ -121,7 +121,7 @@
       "python3"
     ],
     "author": "OtterSec LLC",
-    "dependencies": "lief\nanthropic\nfastmcp\ntenacity\nrust_demangler  \npygments  \nanchorpy  \nsolana  \nsolders\nbase58\n",
+    "dependencies": "lief\nanthropic\nfastmcp\ntenacity\nrust_demangler\npygments\nanchorpy\nsolana\nsolders\nbase58",
     "description": "An architecture/binaryview plugin for Solana EBPF.",
     "installinstructions": {},
     "is_paid": false,
@@ -160,7 +160,7 @@
       "python3"
     ],
     "author": "xorhex",
-    "dependencies": "unicorn\ncapstone\n",
+    "dependencies": "unicorn\ncapstone",
     "description": "Various features to make windows malware analysis easier.",
     "installinstructions": {},
     "is_paid": false,
@@ -467,7 +467,7 @@
       "python3"
     ],
     "author": "Adrian Herrera",
-    "dependencies": "gtirb\n",
+    "dependencies": "gtirb",
     "description": "Support the GrammaTech Intermediate Representation for Binaries (GTIRB) in Binary Ninja",
     "installinstructions": {},
     "is_paid": false,
@@ -581,7 +581,7 @@
       "python3"
     ],
     "author": "computerman00",
-    "dependencies": "pyyaml\n",
+    "dependencies": "pyyaml",
     "description": "PS Vita ELF/PRX2 loader plugin",
     "installinstructions": {},
     "is_paid": false,
@@ -661,7 +661,7 @@
       "python3"
     ],
     "author": "Jason Tang",
-    "dependencies": "openai\nanthropic\npysqlite3\nmarkdown\nhttpx\nanyio>=4.6\nmcp==1.23.3\npywin32; platform_system == \"Windows\"\nwhoosh\naiohttp\n",
+    "dependencies": "openai\nanthropic\npysqlite3\nmarkdown\nhttpx\nanyio>=4.6\nmcp==1.23.3\npywin32; platform_system == \"Windows\"\nwhoosh\naiohttp",
     "description": "A plugin that provides LLM helpers to explain code and assist in RE.",
     "installinstructions": {},
     "is_paid": false,
@@ -777,7 +777,7 @@
       "python3"
     ],
     "author": "Austin Haggard",
-    "dependencies": "ollama\nnetworkx>=3.2.1\n",
+    "dependencies": "ollama\nnetworkx>=3.2.1",
     "description": "Binary Ninja Ollama integrates with your own locally hosted ollama server to rename functions and variables with AI",
     "installinstructions": {},
     "is_paid": false,
@@ -895,7 +895,7 @@
       "python3"
     ],
     "author": "amtal",
-    "dependencies": "pymupdf>=1.19.0\n\n",
+    "dependencies": "pymupdf>=1.19.0",
     "description": "PDF Reference Opcodes Or reGisters. Like IDA's FRIEND/AMIE or Ghidra's \"Processor Manual...\" right-click menu.",
     "installinstructions": {},
     "is_paid": false,
@@ -933,7 +933,7 @@
       "python3"
     ],
     "author": "matteyeux",
-    "dependencies": "requests\nbs4\n",
+    "dependencies": "requests\nbs4",
     "description": "Binary Ninja plugin to display the documentation of a Windows function in a sidebar widget.",
     "installinstructions": {},
     "is_paid": false,
@@ -972,7 +972,7 @@
       "python3"
     ],
     "author": "riskydissonance",
-    "dependencies": "requests>=2.32.3\nlxml>=5.2.2\n",
+    "dependencies": "requests>=2.32.3\nlxml>=5.2.2",
     "description": "Lookup documentation for the selected token",
     "installinstructions": {},
     "is_paid": false,
@@ -1011,7 +1011,7 @@
       "python3"
     ],
     "author": "elbee",
-    "dependencies": "capstone==5.0.1\npandas==2.2.2\nunicorn==2.0.1.post1\nlief==0.16.2\n",
+    "dependencies": "capstone==5.0.1\npandas==2.2.2\nunicorn==2.0.1.post1\nlief==0.16.2",
     "description": "RopView is a gadget analysis framework for BinaryNinja capable of granular per-instruction based analysis and complex logical queries.",
     "installinstructions": {},
     "is_paid": false,
@@ -1090,7 +1090,7 @@
       "python3"
     ],
     "author": "Samman Palihapitiya",
-    "dependencies": "emoji\ntree-sitter==0.23.2\ntree-sitter-c==0.23.4\nsemgrep\n",
+    "dependencies": "emoji\ntree-sitter==0.23.2\ntree-sitter-c==0.23.4\nsemgrep",
     "description": "Search code with Semgrep",
     "installinstructions": {},
     "is_paid": false,
@@ -1128,7 +1128,7 @@
       "python3"
     ],
     "author": "Tim Blazytko",
-    "dependencies": "huggingface_hub>=0.21.4\nllama-cpp-python>=0.2.56\nnetworkx>=3.2.1\ntoml>=0.10.2\ntyper>=0.11\n",
+    "dependencies": "huggingface_hub>=0.21.4\nllama-cpp-python>=0.2.56\nnetworkx>=3.2.1\ntoml>=0.10.2\ntyper>=0.11",
     "description": "Provides automated reverse engineering assistance through the use of local large language models (LLMs) on consumer hardware.",
     "installinstructions": {},
     "is_paid": false,
@@ -1150,7 +1150,7 @@
     ],
     "pluginmetadataversion": 2,
     "projectData": {
-      "stargazers_count": 1066,
+      "stargazers_count": 1067,
       "updated_at": "2024-06-21 03:57:00+00:00"
     },
     "projectUrl": "https://github.com/mrphrazer/reverser_ai",
@@ -1188,7 +1188,7 @@
     ],
     "pluginmetadataversion": 2,
     "projectData": {
-      "stargazers_count": 10,
+      "stargazers_count": 11,
       "updated_at": "2024-02-28 20:55:07+00:00"
     },
     "projectUrl": "https://github.com/zznop/efi-inspector",
@@ -1397,7 +1397,7 @@
       "python3"
     ],
     "author": "Dimitris Zervas",
-    "dependencies": "frida\nJinja2\n",
+    "dependencies": "frida\nJinja2",
     "description": "Frida plugin for Binary Ninja - continuation of BinRida by @c3r34lk1ll3r",
     "installinstructions": {},
     "is_paid": false,
@@ -1744,7 +1744,7 @@
       "python3"
     ],
     "author": "Cindy Xiao",
-    "dependencies": "pyparsing>=3.0.0\n",
+    "dependencies": "pyparsing>=3.0.0",
     "description": "An extremely experimental Binary Ninja importer for the type layout information emitted by the -Zprint-type-sizes flag of the Rust compiler.",
     "installinstructions": {},
     "is_paid": false,
@@ -1896,7 +1896,7 @@
       "python3"
     ],
     "author": "BinSync Team",
-    "dependencies": "binsync>=5.14.1\n",
+    "dependencies": "binsync>=5.14.1",
     "description": "Adds support for cross-decompiler collab in the BinSync supported decompilers.",
     "installinstructions": {},
     "is_paid": false,
@@ -1918,7 +1918,7 @@
     ],
     "pluginmetadataversion": 2,
     "projectData": {
-      "stargazers_count": 698,
+      "stargazers_count": 703,
       "updated_at": "2026-04-23 03:40:13+00:00"
     },
     "projectUrl": "https://github.com/binsync/binsync",
@@ -1934,7 +1934,7 @@
       "python3"
     ],
     "author": "lockbox",
-    "dependencies": "SQLAlchemy>=2.0.0\n",
+    "dependencies": "SQLAlchemy>=2.0.0",
     "description": "Playdate Console RE utilities",
     "installinstructions": {},
     "is_paid": false,
@@ -2032,7 +2032,7 @@
     ],
     "pluginmetadataversion": 2,
     "projectData": {
-      "stargazers_count": 794,
+      "stargazers_count": 795,
       "updated_at": "2025-11-11 22:17:48+00:00"
     },
     "projectUrl": "https://github.com/mahaloz/decomp2dbg",
@@ -2341,7 +2341,7 @@
     ],
     "pluginmetadataversion": 2,
     "projectData": {
-      "stargazers_count": 860,
+      "stargazers_count": 859,
       "updated_at": "2022-11-03 17:37:14+00:00"
     },
     "projectUrl": "https://github.com/crytic/ethersplay",
@@ -2512,7 +2512,7 @@
       "python3"
     ],
     "author": "ex0dus-0x",
-    "dependencies": "ailment==9.2.26; python_version >= \"3.8\"\nangr==9.2.26; python_version >= \"3.8\"\narchinfo==9.2.26; python_version >= \"3.8\"\nbitstring==4.0.1; python_version >= \"3.8\"\ncachetools==5.2.0; python_version >= \"3.8\" and python_version < \"4.0\"\ncapstone==5.0.0; python_version >= \"3.8\" and python_full_version < \"3.0.0\" or python_full_version >= \"3.4.0\" and python_version >= \"3.8\"\ncffi==1.15.1; implementation_name == \"cpython\" and python_version >= \"3.8\"\nclaripy==9.2.26; python_version >= \"3.8\"\ncle==9.2.26; python_version >= \"3.8\"\nclick==8.1.3; python_version >= \"3.7\"\ncolorama==0.4.6; python_version >= \"3.8\" and python_full_version < \"3.0.0\" and platform_system == \"Windows\" or python_version >= \"3.8\" and python_full_version >= \"3.7.0\" and platform_system == \"Windows\"\ncommonmark==0.9.1; python_full_version >= \"3.6.3\" and python_full_version < \"4.0.0\" and python_version >= \"3.6\"\ncontourpy==1.0.6; python_version >= \"3.8\"\ncppheaderparser==2.7.4; python_version >= \"3.8\"\ncssselect==1.2.0; python_version >= \"3.7\"\ncustom-inherit==2.4.0\ncycler==0.11.0; python_version >= \"3.8\"\ndecorator==5.1.1; python_version >= \"3.8\"\ndeprecated==1.2.13; python_version >= \"2.7\" and python_full_version < \"3.0.0\" or python_full_version >= \"3.4.0\"\ndpkt==1.9.8; python_version >= \"3.8\"\nfonttools==4.38.0; python_version >= \"3.8\"\nfuture==0.18.2; python_full_version >= \"3.6.0\" and python_version >= \"3.8\"\ngitdb==4.0.10; python_version >= \"3.8\"\ngitpython==3.1.29; python_version >= \"3.7\"\nitanium-demangler==1.1; python_version >= \"3.8\"\njinja2==3.1.2; python_version >= \"3.7\"\nkiwisolver==1.4.4; python_version >= \"3.8\"\nlief==0.12.3; python_version >= \"3.6\"\nlxml==4.9.1; python_version >= \"2.7\" and python_full_version < \"3.0.0\" or python_full_version >= \"3.5.0\"\nmarkupsafe==2.1.1; python_version >= \"3.7\"\nmatplotlib==3.6.2; python_version >= \"3.8\"\nmpmath==1.2.1; python_version >= \"3.8\"\nmulpyplexer==0.09; python_version >= \"3.8\"\nnampa==0.1.1; python_version >= \"3.8\"\nnetworkx==2.8.8; python_version >= \"3.8\"\nnumpy==1.23.5\npackaging==21.3; python_version >= \"3.8\"\npandas==1.5.2; python_version >= \"3.8\"\npefile==2022.5.30; python_full_version >= \"3.6.0\" and python_version >= \"3.8\"\npillow==9.3.0; python_version >= \"3.8\"\nplumbum==1.8.0; python_version >= \"3.8\"\nply==3.11; python_version >= \"3.8\"\nprogressbar2==4.2.0; python_full_version >= \"3.7.0\" and python_version >= \"3.8\"\nprotobuf==4.21.9; python_version >= \"3.8\"\npsutil==5.9.4; python_version >= \"3.8\" and python_full_version < \"3.0.0\" or python_full_version >= \"3.4.0\" and python_version >= \"3.8\"\npulp==2.7.0\npycparser==2.21; python_version >= \"3.8\" and python_full_version < \"3.0.0\" or python_full_version >= \"3.4.0\" and python_version >= \"3.8\"\npyelftools==0.29; python_version >= \"3.8\"\npygments==2.13.0; python_full_version >= \"3.6.3\" and python_full_version < \"4.0.0\" and python_version >= \"3.6\"\npyparsing==3.0.9; python_full_version >= \"3.6.8\" and python_version >= \"3.8\"\npyquery==1.4.3\npysmt==0.9.6.dev21; python_version >= \"3.8\"\npython-dateutil==2.8.2; python_version >= \"3.8\" and python_full_version < \"3.0.0\" or python_full_version >= \"3.3.0\" and python_version >= \"3.8\"\npython-utils==3.4.5; python_full_version >= \"3.7.0\" and python_version >= \"3.8\"\npytz==2022.6; python_version >= \"3.8\"\npyvex==9.2.26; python_version >= \"3.8\"\npywin32==305; platform_system == \"Windows\" and platform_python_implementation != \"PyPy\" and python_version >= \"3.8\"\nrich==12.6.0; python_full_version >= \"3.6.3\" and python_full_version < \"4.0.0\" and python_version >= \"3.6\"\nrpyc==5.2.3; python_version >= \"3.8\"\nscikit-criteria==0.7\nscipy==1.9.3; python_version >= \"3.8\"\nseaborn==0.12.1; python_version >= \"3.7\"\nsetuptools-scm==7.0.5; python_version >= \"3.8\"\nshellingham==1.5.0; python_version >= \"3.6\"\nsix==1.16.0; python_version >= \"3.8\" and python_full_version < \"3.0.0\" or python_full_version >= \"3.3.0\" and python_version >= \"3.8\"\nsmmap==5.0.0; python_version >= \"3.8\"\nsortedcontainers==2.4.0; python_version >= \"3.8\"\nsympy==1.11.1; python_version >= \"3.8\"\ntomli==2.0.1; python_version >= \"3.8\"\ntree-sitter==0.20.1; python_version >= \"3.3\"\ntyper==0.6.1; python_version >= \"3.6\"\ntyping-extensions==4.4.0; python_version >= \"3.8\"\nunicorn==2.0.1; python_version >= \"3.8\"\nwrapt==1.14.1; python_version >= \"2.7\" and python_full_version < \"3.0.0\" or python_full_version >= \"3.5.0\"\nz3-solver==4.10.2.0; python_version >= \"3.8\"\n",
+    "dependencies": "ailment==9.2.26; python_version >= \"3.8\"\nangr==9.2.26; python_version >= \"3.8\"\narchinfo==9.2.26; python_version >= \"3.8\"\nbitstring==4.0.1; python_version >= \"3.8\"\ncachetools==5.2.0; python_version >= \"3.8\" and python_version < \"4.0\"\ncapstone==5.0.0; python_version >= \"3.8\" and python_full_version < \"3.0.0\" or python_full_version >= \"3.4.0\" and python_version >= \"3.8\"\ncffi==1.15.1; implementation_name == \"cpython\" and python_version >= \"3.8\"\nclaripy==9.2.26; python_version >= \"3.8\"\ncle==9.2.26; python_version >= \"3.8\"\nclick==8.1.3; python_version >= \"3.7\"\ncolorama==0.4.6; python_version >= \"3.8\" and python_full_version < \"3.0.0\" and platform_system == \"Windows\" or python_version >= \"3.8\" and python_full_version >= \"3.7.0\" and platform_system == \"Windows\"\ncommonmark==0.9.1; python_full_version >= \"3.6.3\" and python_full_version < \"4.0.0\" and python_version >= \"3.6\"\ncontourpy==1.0.6; python_version >= \"3.8\"\ncppheaderparser==2.7.4; python_version >= \"3.8\"\ncssselect==1.2.0; python_version >= \"3.7\"\ncustom-inherit==2.4.0\ncycler==0.11.0; python_version >= \"3.8\"\ndecorator==5.1.1; python_version >= \"3.8\"\ndeprecated==1.2.13; python_version >= \"2.7\" and python_full_version < \"3.0.0\" or python_full_version >= \"3.4.0\"\ndpkt==1.9.8; python_version >= \"3.8\"\nfonttools==4.38.0; python_version >= \"3.8\"\nfuture==0.18.2; python_full_version >= \"3.6.0\" and python_version >= \"3.8\"\ngitdb==4.0.10; python_version >= \"3.8\"\ngitpython==3.1.29; python_version >= \"3.7\"\nitanium-demangler==1.1; python_version >= \"3.8\"\njinja2==3.1.2; python_version >= \"3.7\"\nkiwisolver==1.4.4; python_version >= \"3.8\"\nlief==0.12.3; python_version >= \"3.6\"\nlxml==4.9.1; python_version >= \"2.7\" and python_full_version < \"3.0.0\" or python_full_version >= \"3.5.0\"\nmarkupsafe==2.1.1; python_version >= \"3.7\"\nmatplotlib==3.6.2; python_version >= \"3.8\"\nmpmath==1.2.1; python_version >= \"3.8\"\nmulpyplexer==0.09; python_version >= \"3.8\"\nnampa==0.1.1; python_version >= \"3.8\"\nnetworkx==2.8.8; python_version >= \"3.8\"\nnumpy==1.23.5\npackaging==21.3; python_version >= \"3.8\"\npandas==1.5.2; python_version >= \"3.8\"\npefile==2022.5.30; python_full_version >= \"3.6.0\" and python_version >= \"3.8\"\npillow==9.3.0; python_version >= \"3.8\"\nplumbum==1.8.0; python_version >= \"3.8\"\nply==3.11; python_version >= \"3.8\"\nprogressbar2==4.2.0; python_full_version >= \"3.7.0\" and python_version >= \"3.8\"\nprotobuf==4.21.9; python_version >= \"3.8\"\npsutil==5.9.4; python_version >= \"3.8\" and python_full_version < \"3.0.0\" or python_full_version >= \"3.4.0\" and python_version >= \"3.8\"\npulp==2.7.0\npycparser==2.21; python_version >= \"3.8\" and python_full_version < \"3.0.0\" or python_full_version >= \"3.4.0\" and python_version >= \"3.8\"\npyelftools==0.29; python_version >= \"3.8\"\npygments==2.13.0; python_full_version >= \"3.6.3\" and python_full_version < \"4.0.0\" and python_version >= \"3.6\"\npyparsing==3.0.9; python_full_version >= \"3.6.8\" and python_version >= \"3.8\"\npyquery==1.4.3\npysmt==0.9.6.dev21; python_version >= \"3.8\"\npython-dateutil==2.8.2; python_version >= \"3.8\" and python_full_version < \"3.0.0\" or python_full_version >= \"3.3.0\" and python_version >= \"3.8\"\npython-utils==3.4.5; python_full_version >= \"3.7.0\" and python_version >= \"3.8\"\npytz==2022.6; python_version >= \"3.8\"\npyvex==9.2.26; python_version >= \"3.8\"\npywin32==305; platform_system == \"Windows\" and platform_python_implementation != \"PyPy\" and python_version >= \"3.8\"\nrich==12.6.0; python_full_version >= \"3.6.3\" and python_full_version < \"4.0.0\" and python_version >= \"3.6\"\nrpyc==5.2.3; python_version >= \"3.8\"\nscikit-criteria==0.7\nscipy==1.9.3; python_version >= \"3.8\"\nseaborn==0.12.1; python_version >= \"3.7\"\nsetuptools-scm==7.0.5; python_version >= \"3.8\"\nshellingham==1.5.0; python_version >= \"3.6\"\nsix==1.16.0; python_version >= \"3.8\" and python_full_version < \"3.0.0\" or python_full_version >= \"3.3.0\" and python_version >= \"3.8\"\nsmmap==5.0.0; python_version >= \"3.8\"\nsortedcontainers==2.4.0; python_version >= \"3.8\"\nsympy==1.11.1; python_version >= \"3.8\"\ntomli==2.0.1; python_version >= \"3.8\"\ntree-sitter==0.20.1; python_version >= \"3.3\"\ntyper==0.6.1; python_version >= \"3.6\"\ntyping-extensions==4.4.0; python_version >= \"3.8\"\nunicorn==2.0.1; python_version >= \"3.8\"\nwrapt==1.14.1; python_version >= \"2.7\" and python_full_version < \"3.0.0\" or python_full_version >= \"3.5.0\"\nz3-solver==4.10.2.0; python_version >= \"3.8\"",
     "description": "Framework for Automating Fuzzable Target Discovery with Static Analysis",
     "installinstructions": {},
     "is_paid": false,
@@ -2551,7 +2551,7 @@
       "python3"
     ],
     "author": "Hyun Yi",
-    "dependencies": "yara-python>=4.3.0\npefile>=2019.4.18\nPillow>=8.0.1\n",
+    "dependencies": "yara-python>=4.3.0\npefile>=2019.4.18\nPillow>=8.0.1",
     "description": "YARA rule making tool for Binary Ninja, Cutter, and IDA",
     "installinstructions": {},
     "is_paid": false,
@@ -2779,7 +2779,7 @@
       "python3"
     ],
     "author": "cynder (kat)",
-    "dependencies": "capstone\n",
+    "dependencies": "capstone",
     "description": "Processing for Apple's dyld_shared_cache format.",
     "installinstructions": {},
     "is_paid": false,
@@ -2936,7 +2936,7 @@
       "python3"
     ],
     "author": "fkie-cad",
-    "dependencies": "git+https://github.com/fkie-cad/dewolf-logic.git#egg=delogic\ngit+https://github.com/fkie-cad/dewolf-idioms.git\nblack\nisort\nnetworkx != 2.8.4\npydot\npygments\npytest !=5.3.4\npytest-xdist\nz3-solver == 4.8.10\n",
+    "dependencies": "git+https://github.com/fkie-cad/dewolf-logic.git\ngit+https://github.com/fkie-cad/dewolf-idioms.git\nblack\nisort\nnetworkx != 2.8.4\npydot\npygments\npytest !=5.3.4\npytest-xdist\nz3-solver == 4.8.10",
     "description": "Research Decompiler to generate a C-like function representation",
     "installinstructions": {},
     "is_paid": false,
@@ -3076,7 +3076,7 @@
     ],
     "pluginmetadataversion": 2,
     "projectData": {
-      "stargazers_count": 2335,
+      "stargazers_count": 2334,
       "updated_at": "2022-01-21 23:58:37+00:00"
     },
     "projectUrl": "https://github.com/bootleg/ret-sync",
@@ -3268,7 +3268,7 @@
     ],
     "pluginmetadataversion": 2,
     "projectData": {
-      "stargazers_count": 2538,
+      "stargazers_count": 2539,
       "updated_at": "2024-02-05 18:12:17+00:00"
     },
     "projectUrl": "https://github.com/gaasedelen/lighthouse",
@@ -3551,7 +3551,7 @@
       "python3"
     ],
     "author": "Yu-Jye Tung",
-    "dependencies": "toolz==0.10.0\nclick==7.1.2\n",
+    "dependencies": "toolz==0.10.0\nclick==7.1.2",
     "description": "detect opaque predicates",
     "installinstructions": {},
     "is_paid": false,
@@ -3627,7 +3627,7 @@
       "python3"
     ],
     "author": "Terry Chia (Ayrx)",
-    "dependencies": "git+https://github.com/androguard/androguard@8d091cbb309c0c50bf239f805cc1e0931b8dcddc\n",
+    "dependencies": "git+https://github.com/androguard/androguard@8d091cbb309c0c50bf239f805cc1e0931b8dcddc",
     "description": "Analysis scripts for Binary Ninja to work with Android NDK libraries.",
     "installinstructions": {},
     "is_paid": false,
@@ -3687,7 +3687,7 @@
     ],
     "pluginmetadataversion": 2,
     "projectData": {
-      "stargazers_count": 652,
+      "stargazers_count": 653,
       "updated_at": "2025-03-14 02:16:09+00:00"
     },
     "projectUrl": "https://github.com/mrphrazer/obfuscation_detection",
@@ -3821,7 +3821,7 @@
       "python3"
     ],
     "author": "inspier",
-    "dependencies": "rust_demangler==1.0\n",
+    "dependencies": "rust_demangler==1.0",
     "description": "Demangles Rust symbols.",
     "installinstructions": {},
     "is_paid": false,
@@ -4244,7 +4244,7 @@
       "python3"
     ],
     "author": "Grant Orndorff",
-    "dependencies": "filebytes\n",
+    "dependencies": "filebytes",
     "description": "Insert custom hooks",
     "installinstructions": {},
     "is_paid": false,
@@ -4283,7 +4283,7 @@
       "python3"
     ],
     "author": "Paolo Montesel (https://github.com/thebabush)",
-    "dependencies": "future\n",
+    "dependencies": "future",
     "description": "FLIRT for (binary) ninjas",
     "installinstructions": {},
     "is_paid": false,
@@ -5136,7 +5136,7 @@
       "python3"
     ],
     "author": "Mark Griffin",
-    "dependencies": "msgpack\n",
+    "dependencies": "msgpack",
     "description": "Scriptable code coverage analysis and visualization plugin",
     "installinstructions": {},
     "is_paid": false,
@@ -5642,7 +5642,7 @@
       "python3"
     ],
     "author": "toolCHAINZ",
-    "dependencies": "argparse-addons==0.12.0 ; python_version >= \"3.10\" and python_version < \"4.0\"\nbincopy==17.14.5 ; python_version >= \"3.10\" and python_version < \"4.0\"\nhumanfriendly==10.0 ; python_version >= \"3.10\" and python_version < \"4.0\"\npyelftools==0.31 ; python_version >= \"3.10\" and python_version < \"4.0\"\npyreadline3==3.4.1 ; sys_platform == \"win32\" and python_version >= \"3.10\" and python_version < \"4.0\"\n",
+    "dependencies": "argparse-addons==0.12.0 ; python_version >= \"3.10\" and python_version < \"4.0\"\nbincopy==17.14.5 ; python_version >= \"3.10\" and python_version < \"4.0\"\nhumanfriendly==10.0 ; python_version >= \"3.10\" and python_version < \"4.0\"\npyelftools==0.31 ; python_version >= \"3.10\" and python_version < \"4.0\"\npyreadline3==3.4.1 ; sys_platform == \"win32\" and python_version >= \"3.10\" and python_version < \"4.0\"",
     "description": "A simple loader for Motorola SREC, Intel HEX, and TI-TXT files.",
     "installinstructions": {},
     "is_paid": false,
@@ -5680,7 +5680,7 @@
       "python3"
     ],
     "author": "Meador Inge",
-    "dependencies": "wasamole==0.5.0\n",
+    "dependencies": "wasamole==0.5.0",
     "description": "This is a plugin for disassembling and lifting WASM images..",
     "installinstructions": {},
     "is_paid": false,
@@ -5719,7 +5719,7 @@
       "python3"
     ],
     "author": "EliseZeroTwo",
-    "dependencies": "lz4>=3.1.0 ",
+    "dependencies": "lz4>=3.1.0",
     "description": "Loader for common Nintendo Switch binaries",
     "installinstructions": {},
     "is_paid": false,
@@ -5758,7 +5758,7 @@
       "python3"
     ],
     "author": "Luca Borzacchiello",
-    "dependencies": "z3-solver\n",
+    "dependencies": "z3-solver",
     "description": "Symbolic execution plugin for BinaryNinja",
     "installinstructions": {},
     "is_paid": false,
@@ -6065,7 +6065,7 @@
       "python3"
     ],
     "author": "lwerdna",
-    "dependencies": "capstone\nkeystone-engine\n",
+    "dependencies": "capstone\nkeystone-engine",
     "description": "Remake of keypatch plugin for Binary Ninja",
     "installinstructions": {},
     "is_paid": false,
@@ -6104,7 +6104,7 @@
       "python3"
     ],
     "author": "Jordan Wiens",
-    "dependencies": "matplotlib\n",
+    "dependencies": "matplotlib",
     "description": "Shows statistics about your Binary Ninja usage. Also includes a 'Time Wasted Debugging' timer widget for the status bar (disabled by default, enable in settings).",
     "installinstructions": {},
     "is_paid": false,
@@ -6142,7 +6142,7 @@
       "python3"
     ],
     "author": "Known Rabbit",
-    "dependencies": "binaryninja-mcp==0.3.1\n",
+    "dependencies": "binaryninja-mcp==0.3.1",
     "description": "MCP Server for Binary Ninja.",
     "installinstructions": {},
     "is_paid": false,
@@ -6164,7 +6164,7 @@
     ],
     "pluginmetadataversion": 2,
     "projectData": {
-      "stargazers_count": 40,
+      "stargazers_count": 41,
       "updated_at": "2025-05-11 07:32:17+00:00"
     },
     "projectUrl": "https://github.com/MCPPhalanx/binaryninja-mcp",
@@ -6374,7 +6374,7 @@
       "python3"
     ],
     "author": "CX330Blake",
-    "dependencies": "pygments>=2.12\nkeystone-engine>=0.9.2\n",
+    "dependencies": "pygments>=2.12\nkeystone-engine>=0.9.2",
     "description": "Shellcode IDE makes developing and analyzing shellcode much more convenient.",
     "installinstructions": {},
     "is_paid": false,
@@ -6452,7 +6452,7 @@
       "python3"
     ],
     "author": "buzzer-re",
-    "dependencies": "anthropic>=0.39.0\nopenai>=1.50.0\ngoogle-genai>=1.0.0\nmcp>=1.0.0\ntomli>=2.0.0\ncryptography>=43.0.0\nida-domain>=0.1.0\n",
+    "dependencies": "anthropic>=0.39.0\nopenai>=1.50.0\ngoogle-genai>=1.0.0\nmcp>=1.0.0\ntomli>=2.0.0\ncryptography>=43.0.0\nida-domain>=0.1.0",
     "description": "Rikugan reverse engineering companion for Binary Ninja.\",",
     "installinstructions": {},
     "is_paid": false,
@@ -6474,7 +6474,7 @@
     ],
     "pluginmetadataversion": 2,
     "projectData": {
-      "stargazers_count": 595,
+      "stargazers_count": 598,
       "updated_at": "2026-04-18 15:18:43+00:00"
     },
     "projectUrl": "https://github.com/buzzer-re/Rikugan/",
@@ -6513,7 +6513,7 @@
     ],
     "pluginmetadataversion": 2,
     "projectData": {
-      "stargazers_count": 0,
+      "stargazers_count": 1,
       "updated_at": "2026-04-21 13:37:07+00:00"
     },
     "projectUrl": "https://github.com/nyxFault/JNIAtlas/",
@@ -6606,7 +6606,7 @@
       "python3"
     ],
     "author": "Damian Pfammatter and Sergio Paganoni",
-    "dependencies": "PyYAML==6.0.3\nijson==3.4.0\nlark==1.3.1\nnetworkx[default]==3.6.1\nopenai==2.20.0\npydantic==2.12.5\ntermcolor==3.3.0\n",
+    "dependencies": "PyYAML==6.0.3\nijson==3.4.0\nlark==1.3.1\nnetworkx[default]==3.6.1\nopenai==2.20.0\npydantic==2.12.5\ntermcolor==3.3.0",
     "description": "Uncover interesting paths using static backward slicing",
     "installinstructions": {},
     "is_paid": false,
@@ -6763,7 +6763,7 @@
       "python3"
     ],
     "author": "Remco Sprooten",
-    "dependencies": "capstone>=5.0.0\n",
+    "dependencies": "capstone>=5.0.0",
     "description": "Generate YARA rules from selected assembly instructions with intelligent architecture-aware wildcarding. Features real-time preview, per-instruction wildcard control, and Capstone Engine integration for accurate opcode preservation across x86/x64, ARM/A...",
     "installinstructions": {},
     "is_paid": false,
@@ -6914,6 +6914,44 @@
     "api": [
       "python3"
     ],
+    "author": "lele394",
+    "dependencies": "",
+    "description": "Download and manage themes from different repos.",
+    "installinstructions": {},
+    "is_paid": false,
+    "lastUpdated": 1777365765,
+    "license": {
+      "name": "MIT",
+      "text": "Copyright (c) 2026 L\u00e9o BECHET\r\n\r\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\r\n\r\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\r\n\r\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+    },
+    "longdescription": "# A Theme Manager For Binary Ninja\n\n> Developped for Binary Ninja 3.5\n\nA simple plugin for browsing, installing, and applying community `.bntheme` themes inside Binary Ninja.\n\n## What it does\n\n- Lists themes from configured GitHub repositories\n- Shows installed themes locally\n- Lets you apply a theme directly from the UI\n- Basic search/filter for theme names\n\n## Storage\n\nInstalled themes are saved to:\n\n```\n~/.binaryninja/community-themes/\n```\n\n## Usage\n\nOpen:\n\n```\nPlugins \u2192 Theme Manager\n```\n\nThen:\n- Click **Install** to download a theme\n- Click **Set** to apply it (may need restart)\n\n## Supported repos\n\n- Vector35 - community themes  \n  https://github.com/Vector35/community-themes\n\n- Catppuccin - Binary Ninja themes  \n  https://github.com/catppuccin/binary-ninja/tree/main/themes\n\n- Dracula - Binary Ninja theme  \n  https://github.com/dracula/binary-ninja\n\n- Evan Richter - Base16 Binary Ninja colors  \n  https://github.com/evanrichter/base16-binary-ninja\n\n- FuzzySecurity - Binary Ninja themes  \n  https://github.com/FuzzySecurity/BinaryNinja-Themes\n\n## Requirements\n\n- Binary Ninja 3.5+\n- Internet access for fetching themes\n\n\n### Changelog\nTested support on Binary Ninja 3.5\r\n\r\nA simple plugin for browsing, installing, and applying community `.bntheme` themes inside Binary Ninja.\r\n\r\n## Features\r\n- Lists themes from configured GitHub repositories\r\n- Shows installed themes locally\r\n- Lets you apply a theme directly from the UI\r\n- Basic search/filter for theme names\r\n\r\n## Usage\r\n\r\nOpen:\r\n\r\n```\r\nPlugins \u2192 Theme Manager\r\n```\r\n\r\n## Supported repos\r\n\r\n- Vector35 \u2013 community themes  \r\n  https://github.com/Vector35/community-themes\r\n\r\n- Catppuccin \u2013 Binary Ninja themes  \r\n  https://github.com/catppuccin/binary-ninja/tree/main/themes\r\n\r\n- Dracula \u2013 Binary Ninja theme  \r\n  https://github.com/dracula/binary-ninja\r\n\r\n- Evan Richter \u2013 Base16 Binary Ninja colors  \r\n  https://github.com/evanrichter/base16-binary-ninja\r\n\r\n- FuzzySecurity \u2013 Binary Ninja themes  \r\n  https://github.com/FuzzySecurity/BinaryNinja-Themes\r\n\r\n",
+    "minimumbinaryninjaversion": 8104,
+    "name": "Theme Manager",
+    "packageShortUrl": "https://extensions.binary.ninja/v1/extensions/b746ffa9-7ec3-4f89-a26b-88dea5b84c1a/versions/9d0c6232-640c-447d-80d0-1ef346f90f66/platforms/3445/download",
+    "packageUrl": "https://extensions.binary.ninja/v1/extensions/b746ffa9-7ec3-4f89-a26b-88dea5b84c1a/versions/9d0c6232-640c-447d-80d0-1ef346f90f66/platforms/3445/download?notrack=1",
+    "path": "lele394_Binary_Ninja_Theme_Manager",
+    "platforms": [
+      "Darwin",
+      "Linux",
+      "Windows"
+    ],
+    "pluginmetadataversion": 2,
+    "projectData": {
+      "stargazers_count": 0,
+      "updated_at": "2026-04-28 08:42:45+00:00"
+    },
+    "projectUrl": "https://github.com/lele394/Binary-Ninja-Theme-Manager",
+    "subdir": "",
+    "type": [
+      "ui"
+    ],
+    "version": "0.1.0",
+    "view_only": false
+  },
+  {
+    "api": [
+      "python3"
+    ],
     "author": "Koh M. Nakagawa",
     "dependencies": "",
     "description": "Binary Ninja plugin for analyzing Swift binaries",
@@ -7029,7 +7067,7 @@
       "python3"
     ],
     "author": "dword64 and layle",
-    "dependencies": "kaitaistruct>=0.10\ncapstone>=5.0.0\npackaging>=21\n",
+    "dependencies": "kaitaistruct>=0.10\ncapstone>=5.0.0\npackaging>=21",
     "description": "Integrates the VTIL (Virtual-machine Translation Intermediate Language) Project with Binary Ninja",
     "installinstructions": {},
     "is_paid": false,
@@ -7067,8 +7105,46 @@
     "api": [
       "python3"
     ],
+    "author": "NightfallCT",
+    "dependencies": "",
+    "description": "Reconstructs C++ class hierarchies from MSVC RTTI",
+    "installinstructions": {},
+    "is_paid": false,
+    "lastUpdated": 1777553851,
+    "license": {
+      "name": "MIT",
+      "text": "Copyright (c) 2026 NightfallCT\r\n\r\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \\\"Software\\\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\r\n\r\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\r\n\r\nTHE SOFTWARE IS PROVIDED \\\"AS IS\\\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+    },
+    "longdescription": "# Class Informer\n\nA port of the [IDA Pro Class Informer plugin](https://github.com/kweatherman/IDA_ClassInformer_PlugIn) by Sirmabus / kweatherman, rewritten for Binary Ninja.\n\nScans MSVC-compiled binaries for C++ Run-Time Type Identification (RTTI) data. It locates `CompleteObjectLocators` (COL), `TypeDescriptors`, `ClassHierarchyDescriptors`, and virtual function tables (vftables). Found structures are annotated with names and comments, and a results pane lists all discovered classes with their full inheritance hierarchy.\n\n## Features\n\n- Two-pass vftable scanner (COL-anchored + segment sweep)\n- Reconstructs full class hierarchy strings (e.g. `CEdit:CWnd:CCmdTarget:CObject`)\n- Annotates vftables, method slots, and RTTI structures with symbols and comments\n- Results pane with sortable table of all discovered classes\n- Save / load scan results to a sidecar JSON file\n- Supports both 32-bit and 64-bit MSVC binaries\n\n## Usage\n\nOpen an MSVC-compiled PE binary in Binary Ninja, then run **Plugins \u2192 Class Informer \u2192 Run Scan** from the menu or command palette.\n\n### Changelog\nClass Informer is a native port of the well known IDA Pro plugin by Sirmabus / kweatherman. It automates the tedious process of finding and reconstructing C++ class hierarchies in MSVC-compiled binaries, saving you from the manual \"vtable-hunting\" grind.",
+    "minimumbinaryninjaversion": 3000,
+    "name": "Class Informer",
+    "packageShortUrl": "https://extensions.binary.ninja/v1/extensions/e0425c6d-9623-49fb-8000-89506785c74e/versions/3e629e17-940f-4f28-950d-c3f1f5f459e9/platforms/3451/download",
+    "packageUrl": "https://extensions.binary.ninja/v1/extensions/e0425c6d-9623-49fb-8000-89506785c74e/versions/3e629e17-940f-4f28-950d-c3f1f5f459e9/platforms/3451/download?notrack=1",
+    "path": "NightfallCT_Class_Informer_Binary_Ninja",
+    "platforms": [
+      "Darwin",
+      "Linux",
+      "Windows"
+    ],
+    "pluginmetadataversion": 2,
+    "projectData": {
+      "stargazers_count": 0,
+      "updated_at": "2026-04-30 12:57:31+00:00"
+    },
+    "projectUrl": "https://github.com/NightfallCT/Class-Informer-Binary-Ninja",
+    "subdir": "",
+    "type": [
+      "analysis"
+    ],
+    "version": "0.1.0",
+    "view_only": false
+  },
+  {
+    "api": [
+      "python3"
+    ],
     "author": "Vector 35 Inc",
-    "dependencies": "objgraph\n\n",
+    "dependencies": "objgraph",
     "description": "A debugging tool for Binary Ninja plugin developers to detect and diagnose memory leaks related to BinaryView objects.",
     "installinstructions": {},
     "is_paid": false,
@@ -7106,7 +7182,7 @@
       "python3"
     ],
     "author": "Jason Tang",
-    "dependencies": "mcp==1.23.3\nanyio>=4.0.0\nhypercorn>=0.16.0\npydantic>=2.0.0\npydantic-settings>=2.0.0\n",
+    "dependencies": "mcp==1.23.3\nanyio>=4.0.0\nhypercorn>=0.16.0\npydantic>=2.0.0\npydantic-settings>=2.0.0",
     "description": "Comprehensive MCP server for Binary Ninja with dual transport support (SSE and STDIO)",
     "installinstructions": {},
     "is_paid": false,
@@ -7146,7 +7222,7 @@
       "python3"
     ],
     "author": "Benson Liu",
-    "dependencies": "mpmath\nsympy\ntyping_extensions\nz3-solver\n",
+    "dependencies": "mpmath\nsympy\ntyping_extensions\nz3-solver",
     "description": "Automatically simplify mixed boolean-arithmetic (MBA) obfuscation expressions.",
     "installinstructions": {},
     "is_paid": false,
@@ -7456,7 +7532,7 @@
       "python3"
     ],
     "author": "Tim Blazytko, Nicol\u00f2 Altamura",
-    "dependencies": "msynth @ git+https://github.com/mrphrazer/msynth@d719a58\nmiasm @ git+https://github.com/cea-sec/miasm@90dc167\nz3-solver\nwheel\nnetworkx\n",
+    "dependencies": "msynth @ git+https://github.com/mrphrazer/msynth@d719a58\nmiasm @ git+https://github.com/cea-sec/miasm@90dc167\nz3-solver\nwheel\nnetworkx",
     "description": "Analyze and simplify obfuscated code",
     "installinstructions": {},
     "is_paid": false,
